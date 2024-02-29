@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Matvey Grishin
-- 👀 I’m interested in games?
-- 🌱 I’m currently learning in school 10 class
+- 👋 I’m Grishin?
+- 👀 I’m interested?
+- 🌱 16yo
 - 📫 kabozator@gmail.com
 
 <!---
